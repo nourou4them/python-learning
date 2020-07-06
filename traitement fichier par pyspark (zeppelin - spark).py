@@ -1,6 +1,6 @@
 %spark2.sql
 show schemas
-use masai
+use chosen_schema
 
 path = "Path_to_the_file"
 fs = spark._jvm.org.apache.hadoop.fs.FileSystem.get(spark._jsc.hadoopConfiguration())
