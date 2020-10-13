@@ -74,13 +74,3 @@ print(nonvide)
 
 # Sauvegarde du fichier xls des stats
 fichier.save(os.path.join(sauvegarde, fichier_final))
-
-
-
-
-
-
-
-
-# '//smb15-nas1.par.emea.cib/FRTB_MASAI/STREAM 01 DATA/Referentiel/10 - Historique/PROD/1 - Risk Factors/10 - October'
-
